@@ -31,7 +31,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farhat87&theme=react-dark" />
 </p>
 
-### 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Farhat87&color=2EA043&style=flat" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA043&height=100&section=header&text=Tech%20Stack&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,nodejs,tensorflow,pytorch,git,github,docker,html,css&theme=dark" />
 </p>
