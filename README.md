@@ -13,7 +13,7 @@
 ### 🚀 Always Building
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Farhat87/Farhat87/main/rocket.svg" alt="Rocket animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Farhat87/Farhat87/main/rocket.svg?v=2" alt="Rocket animation" width="100%" />
 </p>
 
 ### 🧮 Stats & Streak
