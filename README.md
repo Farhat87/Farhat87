@@ -10,9 +10,11 @@
 
 ![Metrics](https://raw.githubusercontent.com/Farhat87/Farhat87/main/github-metrics.svg)
 
-### 🐍 Contribution Snake
+### 🚀 Always Building
 
-![Snake animation](https://raw.githubusercontent.com/Farhat87/Farhat87/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Farhat87/Farhat87/main/rocket.svg" alt="Rocket animation" width="100%" />
+</p>
 
 ### 🧮 Stats & Streak
 
